@@ -20,7 +20,7 @@ My goal is to contribute to building secure, resilient systems while continuousl
 ## 🚀 Projects & Reports
 
 📄 https://github.com/ManojMandal01/Research_Report_on_Common_Network_Security_Threats
-📄 https://github.com/ManojMandal01/social_engineering_report  
+📄 https://github.com/ManojMandal01/social_engineering_report
 📄 https://github.com/ManojMandal01/Research_Report_on_the_Importance_of_Patch_Management
 📄 https://github.com/ManojMandal01/Vulnerability_Scanning_with_Nikto
 📄 https://github.com/ManojMandal01/Capture_Network_Traffic_with_Wireshark
@@ -51,7 +51,7 @@ Currently learning:
 ## 🤝 Let's Connect
 
 - 📧 Email: `manojmandal@example.com` *(replace with real one)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 💼 https://www.linkedin.com/in/manoj-mandal-/ 
 - 🌐 Portfolio: [Coming Soon]
 
 ---
