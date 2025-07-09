@@ -54,7 +54,7 @@ Currently learning:
 
 ## 🤝 Let's Connect
 
-- 📧 Email: `manojmandal@example.com` *(replace with real one)*
+- 📧 Email: `manojmandal0447@gmail.com 
 - 💼 https://www.linkedin.com/in/manoj-mandal-/ 
 - 🌐 Portfolio: [Coming Soon]
 
