@@ -1,7 +1,14 @@
+<!-- Mac-style header -->
 <div align="left">
   <b><span>🔴 🟡 🟢</span></b>
 </div>
 
+<!-- Demo GIF above name -->
+<div align="center">
+  <img src="d2ddd6e7d724b250442cc6b541d08a4e1-ezgif.com-video-to-gif-converter.gif" alt="Cyber GIF" width="55%" />
+</div>
+
+<!-- Typing SVG with name -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CF739&width=600&height=55&lines=%24++++++++++%F0%9F%91%8B+Hi%2C+I'm+Manoj+Mandal" alt="Typing SVG" />
@@ -10,57 +17,39 @@
 
 ---
 
-🎓 **Cybersecurity Intern | Aspiring Security Analyst | Tech Enthusiast**  
-📍 Based in India | 🛡️ Focused on Network & System Security
+🎓 **`Cybersecurity Intern`** | 🧠 *Aspiring Security Analyst* | ⚙️ **Tech Explorer**  
+📍 `Based in India` | 🛡️ *On a mission to secure the digital world*
 
 ---
 
 ## 🧠 About Me
 
-I’m currently diving deep into the world of **cybersecurity**, with practical exposure and curiosity in:
+🚨 Currently diving into the **dark alleys of cyber threats** and learning how to defend against them.  
+🕵️‍♂️ Love decrypting packets, patching holes, and thinking like a hacker (but for good).  
 
-- 🔍 **Network Traffic Analysis** using Wireshark  
-- 🛠️ **Vulnerability Assessment** & **Patch Management**  
-- ⚠️ Studying common attacks like **DoS**, **MITM**, **Spoofing**, and more  
+**🔍 I focus on:**
 
-My passion lies in building secure, resilient systems while continuously evolving with the latest security trends and threats.
+- 🧬 `Network Forensics` & Traffic Analysis (Wireshark 🐬)  
+- 🛠️ Vulnerability Scanning & Patch Automation  
+- ⚠️ Threats like: **DoS**, **MITM**, **ARP Spoofing**, **Credential Theft**
+
+> _“Offense informs the defense.”_
 
 ---
 
 ## 🚀 Projects & Research Reports
 
-- 📄 [Common Network Security Threats – A Research Report](https://github.com/ManojMandal01/Research_Report_on_Common_Network_Security_Threats)  
-- 📄 [Social Engineering – Tactics & Prevention](https://github.com/ManojMandal01/social_engineering_report)  
-- 📄 [The Importance of Patch Management](https://github.com/ManojMandal01/Research_Report_on_the_Importance_of_Patch_Management)  
-- 📄 [Vulnerability Scanning with Nikto](https://github.com/ManojMandal01/Vulnerability_Scanning_with_Nikto)  
-- 📄 [Network Traffic Capture using Wireshark](https://github.com/ManojMandal01/Capture_Network_Traffic_with_Wireshark)  
+- 📑 [🛡️ Common Network Security Threats](https://github.com/ManojMandal01/Research_Report_on_Common_Network_Security_Threats)  
+- 🎭 [🎯 Social Engineering Report](https://github.com/ManojMandal01/social_engineering_report)  
+- 💉 [🔧 Patch Management Research](https://github.com/ManojMandal01/Research_Report_on_the_Importance_of_Patch_Management)  
+- 🕳️ [📡 Vulnerability Scanning w/ Nikto](https://github.com/ManojMandal01/Vulnerability_Scanning_with_Nikto)  
+- 📶 [📊 Wireshark Traffic Analysis](https://github.com/ManojMandal01/Capture_Network_Traffic_with_Wireshark)  
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚙️ Tools of the Trade
 
-- 🔐 **Wireshark** | 🧰 **Kali Linux** | 🐧 **Ubuntu**  
-- 🕵️‍♂️ **Nmap**, **Metasploit**, **Burp Suite (Basic)**  
-- 🔧 Git & GitHub for version control  
-- 📝 Markdown for documentation and report writing  
-
----
-
-## 📈 Currently Learning
-
-- ☁️ Fundamentals of **Cloud Security**  
-- 📜 Deep dive into **OWASP Top 10**  
-- 🔒 Modern **Endpoint Protection** strategies  
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: `manojmandal0447@gmail.com`  
-- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-mandal-/)  
-- 🌐 [Portfolio](https://manojmandal01.github.io/manoj-portfolio/)
-
----
-
-> _“Cybersecurity is much more than a matter of IT. It's a matter of national security.”_  
-> — **Barack Obama**
+```bash
+> Wireshark    > Kali Linux   > Nmap
+> Metasploit   > Burp Suite   > Ubuntu
+> Git + GitHub > Markdown     > Custom Scripts
