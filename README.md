@@ -53,3 +53,21 @@
 > Wireshark    > Kali Linux   > Nmap
 > Metasploit   > Burp Suite   > Ubuntu
 > Git + GitHub > Markdown     > Custom Scripts
+🧪 Always experimenting in safe lab environments.
+
+📚 Currently Exploring
+☁️ Cloud Security Fundamentals (AWS IAM, S3 Misconfigs)
+
+🔓 OWASP Top 10 – Web App Security
+
+🛡️ EDR Solutions & Hardening Techniques
+
+🤝 Let's Connect
+📧 manojmandal0447@gmail.com
+
+💼 LinkedIn
+
+🌐 Portfolio Website
+
+“Cybersecurity is much more than a matter of IT. It's a matter of national security.”
+— Barack Obama
