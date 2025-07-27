@@ -1,63 +1,60 @@
-# 👋 Hi, I'm Manoj Mandal
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CF739&width=600&height=55&lines=%24++++++++++%F0%9F%91%8B+Hi%2C+I'm+Manoj+Mandal" alt="Typing SVG" />
+</a>
+
+---
 
 🎓 **Cybersecurity Intern | Aspiring Security Analyst | Tech Enthusiast**  
-📍 Based in India | 🛡️ Passionate about Network & System Security
+📍 Based in India | 🛡️ Focused on Network & System Security
 
 ---
 
 ## 🧠 About Me
 
-I’m currently exploring the exciting world of **cybersecurity**, with a hands-on focus on:
+I’m currently diving deep into the world of **cybersecurity**, with practical exposure and curiosity in:
 
-- 🔍 Network Traffic Analysis using **Wireshark**
-- 🛠️ Vulnerability Assessment & Patch Management
-- 📚 Understanding real-world threats like **DoS**, **MITM**, and **Spoofing**
+- 🔍 **Network Traffic Analysis** using Wireshark  
+- 🛠️ **Vulnerability Assessment** & **Patch Management**  
+- ⚠️ Studying common attacks like **DoS**, **MITM**, **Spoofing**, and more  
 
-My goal is to contribute to building secure, resilient systems while continuously learning and adapting to evolving cyber threats.
-
----
-
-## 🚀 Projects & Reports
-
-📄 https://github.com/ManojMandal01/Research_Report_on_Common_Network_Security_Threats
-
-📄 https://github.com/ManojMandal01/social_engineering_report
-
-📄 https://github.com/ManojMandal01/Research_Report_on_the_Importance_of_Patch_Management
-
-📄 https://github.com/ManojMandal01/Vulnerability_Scanning_with_Nikto
-
-📄 https://github.com/ManojMandal01/Capture_Network_Traffic_with_Wireshark
-
-
+My passion lies in building secure, resilient systems while continuously evolving with the latest security trends and threats.
 
 ---
 
-## 🛠️ Tech & Tools I Use
+## 🚀 Projects & Research Reports
 
-- 🔐 **Wireshark** | 🔧 **Kali Linux** | 🐧 **Ubuntu**
-- 💡 **Nmap**, **Metasploit**, **Burp Suite (basic)**
-- 🗂️ Git & GitHub for version control
-- ✍️ Markdown & Report Writing
+- 📄 [Common Network Security Threats – A Research Report](https://github.com/ManojMandal01/Research_Report_on_Common_Network_Security_Threats)  
+- 📄 [Social Engineering – Tactics & Prevention](https://github.com/ManojMandal01/social_engineering_report)  
+- 📄 [The Importance of Patch Management](https://github.com/ManojMandal01/Research_Report_on_the_Importance_of_Patch_Management)  
+- 📄 [Vulnerability Scanning with Nikto](https://github.com/ManojMandal01/Vulnerability_Scanning_with_Nikto)  
+- 📄 [Network Traffic Capture using Wireshark](https://github.com/ManojMandal01/Capture_Network_Traffic_with_Wireshark)  
 
 ---
 
-## 📈 Learning & Growth
+## 🛠️ Tools & Technologies
 
-Currently learning:
+- 🔐 **Wireshark** | 🧰 **Kali Linux** | 🐧 **Ubuntu**  
+- 🕵️‍♂️ **Nmap**, **Metasploit**, **Burp Suite (Basic)**  
+- 🔧 Git & GitHub for version control  
+- 📝 Markdown for documentation and report writing  
 
-- ☁️ Basics of Cloud Security
-- 📜 OWASP Top 10 Vulnerabilities
-- 🔒 Endpoint Protection Strategies
+---
+
+## 📈 Currently Learning
+
+- ☁️ Fundamentals of **Cloud Security**  
+- 📜 Deep dive into **OWASP Top 10**  
+- 🔒 Modern **Endpoint Protection** strategies  
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: `manojmandal0447@gmail.com 
-- 💼 https://www.linkedin.com/in/manoj-mandal-/ 
-- 🌐 Portfolio: [Coming Soon]
+- 📧 Email: `manojmandal0447@gmail.com`  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-mandal-/)  
+- 🌐 [Portfolio](https://manojmandal01.github.io/manoj-portfolio/)
 
 ---
 
-> “Cybersecurity is much more than a matter of IT. It's a matter of national security.” – Barack Obama
+> _“Cybersecurity is much more than a matter of IT. It's a matter of national security.”_  
+> — **Barack Obama**
