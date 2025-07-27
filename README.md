@@ -56,18 +56,15 @@
 🧪 Always experimenting in safe lab environments.
 
 📚 Currently Exploring
-☁️ Cloud Security Fundamentals (AWS IAM, S3 Misconfigs)
 
 🔓 OWASP Top 10 – Web App Security
-
-🛡️ EDR Solutions & Hardening Techniques
 
 🤝 Let's Connect
 📧 manojmandal0447@gmail.com
 
-💼 LinkedIn
+💼 Linkedin:- https://www.linkedin.com/in/manoj-mandal-/
 
-🌐 Portfolio Website
+🌐 Portfolio:- https://manojmandal01.github.io/manoj-portfolio/
 
 “Cybersecurity is much more than a matter of IT. It's a matter of national security.”
 — Barack Obama
