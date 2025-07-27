@@ -59,12 +59,14 @@
 
 🔓 OWASP Top 10 – Web App Security
 
-🤝 Let's Connect
-📧 manojmandal0447@gmail.com
 
-💼 Linkedin:- https://www.linkedin.com/in/manoj-mandal-/
+## 🤝 Let's Connect
 
-🌐 Portfolio:- https://manojmandal01.github.io/manoj-portfolio/
+- 📧 Email: `manojmandal0447@gmail.com`  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-mandal-/)  
+- 🌐 [Portfolio](https://manojmandal01.github.io/manoj-portfolio/)
 
-“Cybersecurity is much more than a matter of IT. It's a matter of national security.”
-— Barack Obama
+---
+
+> _“Cybersecurity is much more than a matter of IT. It's a matter of national security.”_  
+> — **Barack Obama**
