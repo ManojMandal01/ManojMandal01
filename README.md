@@ -49,7 +49,7 @@
 
 ## ⚙️ Tools of the Trade
 
-```bash
+
 > Wireshark    > Kali Linux   > Nmap
 > Metasploit   > Burp Suite   > Ubuntu
 > Git + GitHub > Markdown     > Custom Scripts
